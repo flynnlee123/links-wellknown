@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lynxaura.lx13",
+      "sha256_cert_fingerprints": [
+        "9C:D0:E5:CB:B1:F6:9C:BD:2D:94:99:8B:68:04:C8:7E:EC:AE:B1:DA:44:42:6F:12:07:99:BD:36:40:2A:C1:B1"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lynxaura.lx13.test",
+      "sha256_cert_fingerprints": [
+        "5F:F4:30:97:7E:E1:43:54:4D:D7:DF:B2:7D:5E:B1:47:8C:70:D8:7F:7E:0E:2A:CD:01:95:83:D9:EA:1A:5F:65"
+      ]
+    }
+  }
+]

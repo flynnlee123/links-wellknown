@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "X4A7FB6PX7.com.lynxaura.lx13",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "X4A7FB6PX7.com.lynxaura.lx13.test",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
